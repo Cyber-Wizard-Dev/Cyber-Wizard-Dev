@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hello, I'm Cyber Wizard Dev</h1>
-<h3 align="center">A Passionate Cybersecurity Enthusiast and Open-Source Contributor</h3>
+<h1 align="center">👋 Hello, I'm Rai Ali</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://cyberwizard.dev">
-    <img src="https://img.shields.io/badge/Website-cyberwizard.dev-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
   <a href="https://github.com/Cyber-Wizard-Dev">
     <img src="https://img.shields.io/badge/GitHub-Cyber--Wizard--Dev-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/rai-ali-08a804306/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raizzler.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raizzler.dev@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -17,56 +17,74 @@
 
 ## 🚀 About Me
 
-I'm a cybersecurity enthusiast with a passion for ethical hacking, penetration testing, and building open-source tools to make the digital world safer. I love exploring new technologies and contributing to the cybersecurity community.
+I'm a **Full Stack Developer** with expertise in building scalable web applications, RESTful APIs, and modern user interfaces. I enjoy working with both frontend and backend technologies to create seamless and efficient solutions.
 
-- 🔭 **Currently Working On:** Building a malware analysis toolkit.
-- 🌱 **Learning:** Advanced reverse engineering techniques.
-- 👯 **Looking to Collaborate:** On open-source cybersecurity projects.
-- 💬 **Ask Me About:** Network security, Python scripting, and ethical hacking.
-- 📫 **How to Reach Me:** [Email](mailto:your-email@example.com) | [Twitter](https://twitter.com/your-twitter)
+- 🔭 **Currently Working On:** A full-stack e-commerce platform.
+- 🌱 **Learning:** Advanced React patterns and microservices architecture.
+- 👯 **Looking to Collaborate:** On open-source projects or innovative web apps.
+- 💬 **Ask Me About:** React, Node.js, MongoDB, and cloud deployment.
+- 📫 **How to Reach Me:** [Email](mailto:raizzler.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rai-ali-08a804306/)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Wireshark-1679C3?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
 ## 📂 Repositories
 
-### 🔍 Network-Scanner
-A Python-based tool for scanning and analyzing network vulnerabilities.  
-**Technologies:** Python, Scapy, Nmap  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Network-Scanner)
+### 🛒 E-Commerce Platform
+A full-stack e-commerce platform with React, Node.js, and MongoDB.  
+**Technologies:** React, Node.js, Express, MongoDB, Stripe API  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/E-Commerce-Platform)
 
-### 🔓 Password-Cracker
-A brute-force and dictionary-based password cracking tool for educational purposes.  
-**Technologies:** Python, Hashlib, Multithreading  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Password-Cracker)
+### 📝 Blogging Platform
+A modern blogging platform with Next.js and Markdown support.  
+**Technologies:** Next.js, Tailwind CSS, Markdown, Vercel  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Blogging-Platform)
 
-### 🦠 Malware-Analyzer
-A sandbox environment for analyzing and reverse-engineering malware samples.  
-**Technologies:** Python, Cuckoo Sandbox, YARA  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Malware-Analyzer)
+### 🎥 Video Streaming App
+A video streaming app with real-time chat functionality.  
+**Technologies:** React, Node.js, WebSocket, FFmpeg  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Video-Streaming-App)
 
-### 💬 Secure-Chat-App
-An end-to-end encrypted chat application for secure communication.  
-**Technologies:** JavaScript, Node.js, WebSocket, AES Encryption  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Secure-Chat-App)
+### 📊 Analytics Dashboard
+A data visualization dashboard for tracking user metrics.  
+**Technologies:** React, Chart.js, Express, PostgreSQL  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Analytics-Dashboard)
 
-### 🧰 Cyber-Wizard-Toolkit
-A collection of cybersecurity tools and scripts for penetration testing.  
-**Technologies:** Bash, Python, Metasploit, Wireshark  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Cyber-Wizard-Toolkit)
+### 🧑‍💻 Portfolio Website
+My personal portfolio website built with Next.js and Tailwind CSS.  
+**Technologies:** Next.js, Tailwind CSS, Vercel  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Portfolio-Website)
+
+### 🎮 Game Development Project
+A 2D platformer game developed using Unity and C#.  
+**Technologies:** Unity, C#, Blender  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Game-Development-Project)
+
+### 🤖 AI Chatbot
+An AI-powered chatbot built with Python and TensorFlow.  
+**Technologies:** Python, TensorFlow, Flask, NLTK  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/AI-Chatbot)
+
+### 📱 Mobile App
+A cross-platform mobile app built with React Native.  
+**Technologies:** React Native, Expo, Firebase  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Mobile-App)
 
 ---
 
