@@ -44,47 +44,37 @@ I'm a **Full Stack Developer** with expertise in building scalable web applicati
 
 ---
 
-## 📂 Repositories
+## 📂 Projects
 
-### 📊 lm-evaluation-harness
-A framework for evaluating language models with standardized benchmarks.  
-**Technologies:** Python, NLP, Machine Learning  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/lm-evaluation-harness)
+### 🏢 ESB
+A platform for [ESB](https://www.esb.com/).  
+**Description:** ESB is a leading provider of innovative solutions for businesses.  
+**Technologies:** React, Node.js, MongoDB  
 
-### 📈 gluonts
-A Python toolkit for time series modeling and forecasting.  
-**Technologies:** Python, Time Series, Machine Learning  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/gluonts)
+### 🎥 WEVR
+A platform for [WEVR](https://wevr.com/).  
+**Description:** WEVR is a virtual reality platform for immersive experiences.  
+**Technologies:** JavaScript, WebGL, Unity  
 
-### 🎥 serverless-subtitles
-A serverless application for generating subtitles for videos.  
-**Technologies:** Serverless, AWS, Python  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/serverless-subtitles)
+### 🛒 TOMARKET
+A platform for [TOMARKET](https://tomarket-tomarket.com/).  
+**Description:** TOMARKET is an e-commerce platform for modern businesses.  
+**Technologies:** Next.js, Tailwind CSS, Stripe  
 
-### 🐇 rabit-master
-A lightweight library for distributed machine learning.  
-**Technologies:** C++, Distributed Systems, Machine Learning  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/rabit-master)
+### 🎙️ VOKAL
+A platform for [VOKAL](https://www.vokal.io/).  
+**Description:** VOKAL is a voice-enabled platform for seamless communication.  
+**Technologies:** Node.js, WebSocket, AWS  
 
-### 💎 ruby-dnn
-A deep learning framework implemented in Ruby.  
-**Technologies:** Ruby, Deep Learning, Neural Networks  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/ruby-dnn)
+### 🚚 MOVR
+A platform for [MOVR](https://www.movewithmovr.com/).  
+**Description:** MOVR is a logistics platform for efficient moving services.  
+**Technologies:** React Native, Firebase, Google Maps API  
 
-### 📝 markdown-it-katex
-A Markdown plugin for rendering LaTeX equations using KaTeX.  
-**Technologies:** JavaScript, Markdown, LaTeX  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/markdown-it-katex)
-
-### 🐛 EntangleArrayBug
-A project demonstrating and fixing a bug related to entangled arrays.  
-**Technologies:** Python, Debugging, Arrays  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/EntangleArrayBug)
-
-### 💬 showcase_chat
-A real-time chat application built to showcase modern web development.  
-**Technologies:** React, Node.js, WebSocket  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/showcase_chat)
+### 📝 AUTHOREA
+A platform for [AUTHOREA](https://www.authorea.com/).  
+**Description:** AUTHOREA is a collaborative platform for scientific writing.  
+**Technologies:** Ruby on Rails, PostgreSQL, LaTeX  
 
 ---
 
