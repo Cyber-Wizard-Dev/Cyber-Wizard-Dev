@@ -46,45 +46,45 @@ I'm a **Full Stack Developer** with expertise in building scalable web applicati
 
 ## 📂 Repositories
 
-### 🛒 E-Commerce Platform
-A full-stack e-commerce platform with React, Node.js, and MongoDB.  
-**Technologies:** React, Node.js, Express, MongoDB, Stripe API  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/E-Commerce-Platform)
+### 📊 lm-evaluation-harness
+A framework for evaluating language models with standardized benchmarks.  
+**Technologies:** Python, NLP, Machine Learning  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/lm-evaluation-harness)
 
-### 📝 Blogging Platform
-A modern blogging platform with Next.js and Markdown support.  
-**Technologies:** Next.js, Tailwind CSS, Markdown, Vercel  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Blogging-Platform)
+### 📈 gluonts
+A Python toolkit for time series modeling and forecasting.  
+**Technologies:** Python, Time Series, Machine Learning  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/gluonts)
 
-### 🎥 Video Streaming App
-A video streaming app with real-time chat functionality.  
-**Technologies:** React, Node.js, WebSocket, FFmpeg  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Video-Streaming-App)
+### 🎥 serverless-subtitles
+A serverless application for generating subtitles for videos.  
+**Technologies:** Serverless, AWS, Python  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/serverless-subtitles)
 
-### 📊 Analytics Dashboard
-A data visualization dashboard for tracking user metrics.  
-**Technologies:** React, Chart.js, Express, PostgreSQL  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Analytics-Dashboard)
+### 🐇 rabit-master
+A lightweight library for distributed machine learning.  
+**Technologies:** C++, Distributed Systems, Machine Learning  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/rabit-master)
 
-### 🧑‍💻 Portfolio Website
-My personal portfolio website built with Next.js and Tailwind CSS.  
-**Technologies:** Next.js, Tailwind CSS, Vercel  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Portfolio-Website)
+### 💎 ruby-dnn
+A deep learning framework implemented in Ruby.  
+**Technologies:** Ruby, Deep Learning, Neural Networks  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/ruby-dnn)
 
-### 🎮 Game Development Project
-A 2D platformer game developed using Unity and C#.  
-**Technologies:** Unity, C#, Blender  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Game-Development-Project)
+### 📝 markdown-it-katex
+A Markdown plugin for rendering LaTeX equations using KaTeX.  
+**Technologies:** JavaScript, Markdown, LaTeX  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/markdown-it-katex)
 
-### 🤖 AI Chatbot
-An AI-powered chatbot built with Python and TensorFlow.  
-**Technologies:** Python, TensorFlow, Flask, NLTK  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/AI-Chatbot)
+### 🐛 EntangleArrayBug
+A project demonstrating and fixing a bug related to entangled arrays.  
+**Technologies:** Python, Debugging, Arrays  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/EntangleArrayBug)
 
-### 📱 Mobile App
-A cross-platform mobile app built with React Native.  
-**Technologies:** React Native, Expo, Firebase  
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/Mobile-App)
+### 💬 showcase_chat
+A real-time chat application built to showcase modern web development.  
+**Technologies:** React, Node.js, WebSocket  
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Cyber-Wizard-Dev/showcase_chat)
 
 ---
 
