@@ -23,28 +23,38 @@ class DeveloperProfile:
             technologies.update(repo['technologies'])
         return list(technologies)
 
-# Example data for your profile
+# Customized data for Cyber-Wizard-Dev
 profile_data = {
     "name": "Cyber Wizard Dev",
     "username": "Cyber-Wizard-Dev",
-    "bio": "Passionate about coding, cybersecurity, and open-source contributions.",
-    "location": "Earth",
+    "bio": "Passionate about cybersecurity, ethical hacking, and building open-source tools to make the digital world safer.",
+    "location": "Digital Realm",
     "website": "https://cyberwizard.dev",
     "repositories": [
         {
-            "name": "Project Alpha",
-            "description": "A cybersecurity tool for network analysis.",
-            "technologies": ["Python", "Scapy", "Flask"]
+            "name": "Network-Scanner",
+            "description": "A Python-based tool for scanning and analyzing network vulnerabilities.",
+            "technologies": ["Python", "Scapy", "Nmap"]
         },
         {
-            "name": "Project Beta",
-            "description": "An open-source game developed in Unity.",
-            "technologies": ["C#", "Unity", "Blender"]
+            "name": "Password-Cracker",
+            "description": "A brute-force and dictionary-based password cracking tool for educational purposes.",
+            "technologies": ["Python", "Hashlib", "Multithreading"]
         },
         {
-            "name": "Project Gamma",
-            "description": "A machine learning model for anomaly detection.",
-            "technologies": ["Python", "TensorFlow", "Pandas"]
+            "name": "Malware-Analyzer",
+            "description": "A sandbox environment for analyzing and reverse-engineering malware samples.",
+            "technologies": ["Python", "Cuckoo Sandbox", "YARA"]
+        },
+        {
+            "name": "Secure-Chat-App",
+            "description": "An end-to-end encrypted chat application for secure communication.",
+            "technologies": ["JavaScript", "Node.js", "WebSocket", "AES Encryption"]
+        },
+        {
+            "name": "Cyber-Wizard-Toolkit",
+            "description": "A collection of cybersecurity tools and scripts for penetration testing.",
+            "technologies": ["Bash", "Python", "Metasploit", "Wireshark"]
         }
     ]
 }
