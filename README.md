@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello, I'm Rai Ali</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Cyber-Wizard-Dev">
@@ -17,72 +21,45 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with expertise in building scalable web applications, RESTful APIs, and modern user interfaces. I enjoy working with both frontend and backend technologies to create seamless and efficient solutions.
+✨ I'm a **Full Stack Developer** specializing in scalable web applications, RESTful APIs, and modern UI/UX. I love coding and exploring new technologies!
 
-- 🔭 **Currently Working On:** A full-stack e-commerce platform and contributing to open-source.
-- 🌱 **Learning:** Advanced React patterns, microservices architecture, and cloud-native development.
-- 👯 **Looking to Collaborate:** On open-source projects, SaaS products, and web-based solutions.
+- 🔭 **Currently Working On:** A full-stack e-commerce platform & contributing to open-source.
+- 🌱 **Learning:** Advanced React patterns, microservices, and cloud-native development.
+- 👯 **Looking to Collaborate:** On open-source projects, SaaS products, and web solutions.
 - 💬 **Ask Me About:** React, Node.js, TypeScript, MongoDB, and cloud deployment.
 - 📫 **How to Reach Me:** [Email](mailto:raizzler.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rai-ali-08a804306/)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,mongodb,express,nextjs,tailwind,docker,aws" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🏢 ESB
-A platform for [ESB](https://www.esb.com/).  
-**Description:** ESB is a leading provider of innovative solutions for businesses.  
-**Technologies:** React, Node.js, MongoDB  
-
-### 🎥 WEVR
-A platform for [WEVR](https://wevr.com/).  
-**Description:** WEVR is a virtual reality platform for immersive experiences.  
-**Technologies:** JavaScript, WebGL, Unity  
-
-### 🛒 TOMARKET
-A platform for [TOMARKET](https://tomarket-tomarket.com/).  
-**Description:** TOMARKET is an e-commerce platform for modern businesses.  
-**Technologies:** Next.js, Tailwind CSS, Stripe  
-
-### 🎙️ VOKAL
-A platform for [VOKAL](https://www.vokal.io/).  
-**Description:** VOKAL is a voice-enabled platform for seamless communication.  
-**Technologies:** Node.js, WebSocket, AWS  
-
-### 🚚 MOVR
-A platform for [MOVR](https://www.movewithmovr.com/).  
-**Description:** MOVR is a logistics platform for efficient moving services.  
-**Technologies:** React Native, Firebase, Google Maps API  
-
-### 📝 AUTHOREA
-A platform for [AUTHOREA](https://www.authorea.com/).  
-**Description:** AUTHOREA is a collaborative platform for scientific writing.  
-**Technologies:** Ruby on Rails, PostgreSQL, LaTeX  
+<p align="center">
+  <a href="https://www.esb.com/">
+    <img src="https://img.shields.io/badge/ESB-React,%20Node.js,%20MongoDB-green?style=for-the-badge" alt="ESB" />
+  </a>
+  <a href="https://wevr.com/">
+    <img src="https://img.shields.io/badge/WEVR-JavaScript,%20WebGL,%20Unity-blue?style=for-the-badge" alt="WEVR" />
+  </a>
+  <a href="https://tomarket-tomarket.com/">
+    <img src="https://img.shields.io/badge/TOMARKET-Next.js,%20Tailwind%20CSS,%20Stripe-yellow?style=for-the-badge" alt="TOMARKET" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Wizard-Dev&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Wizard-Dev&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Wizard-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Wizard-Dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
