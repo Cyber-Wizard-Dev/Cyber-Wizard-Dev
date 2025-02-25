@@ -92,3 +92,30 @@ A platform for [AUTHOREA](https://www.authorea.com/).
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyber-Wizard-Dev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+## ✨ Animations
+
+Here are some fun animations to make your profile more lively:
+
+### 🎉 Party Parrot
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width="50" height="50" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" alt="Deal With It Parrot" width="50" height="50" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" alt="Conga Parrot" width="50" height="50" />
+</p>
+
+### 🚀 Rocket Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Rocket" width="100" height="100" />
+</p>
+
+### 💻 Coding Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="Coding" width="100" height="100" />
+</p>
+
+---
+
+Feel free to customize the animations further or add more GIFs to make your profile stand out! 🚀
