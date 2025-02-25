@@ -61,9 +61,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Wizard-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Cyber-Wizard-Dev&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Wizard-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Wizard-Dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Cyber-Wizard-Dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Wizard-Dev&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" />
 </p>
 
 ---
