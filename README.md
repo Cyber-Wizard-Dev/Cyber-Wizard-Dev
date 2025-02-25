@@ -19,10 +19,10 @@
 
 I'm a **Full Stack Developer** with expertise in building scalable web applications, RESTful APIs, and modern user interfaces. I enjoy working with both frontend and backend technologies to create seamless and efficient solutions.
 
-- 🔭 **Currently Working On:** A full-stack e-commerce platform.
-- 🌱 **Learning:** Advanced React patterns and microservices architecture.
-- 👯 **Looking to Collaborate:** On open-source projects or innovative web apps.
-- 💬 **Ask Me About:** React, Node.js, MongoDB, and cloud deployment.
+- 🔭 **Currently Working On:** A full-stack e-commerce platform and contributing to open-source.
+- 🌱 **Learning:** Advanced React patterns, microservices architecture, and cloud-native development.
+- 👯 **Looking to Collaborate:** On open-source projects, SaaS products, and web-based solutions.
+- 💬 **Ask Me About:** React, Node.js, TypeScript, MongoDB, and cloud deployment.
 - 📫 **How to Reach Me:** [Email](mailto:raizzler.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rai-ali-08a804306/)
 
 ---
@@ -30,22 +30,16 @@ I'm a **Full Stack Developer** with expertise in building scalable web applicati
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <!-- React -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=React+%7C+Node.js+%7C+JavaScript" alt="React" />
-</p>
-
-<p align="center">
-  <!-- Floating Icons -->
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="React" width="80" height="80" />
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Node.js" width="80" height="80" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="80" height="80" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mTP/giphy.gif" alt="TypeScript" width="80" height="80" />
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="MongoDB" width="80" height="80" />
-  <img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" alt="Express" width="80" height="80" />
-  <img src="https://media.giphy.com/media/RJzm826j0bR3u7u0i1/giphy.gif" alt="Next.js" width="80" height="80" />
-  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Tailwind CSS" width="80" height="80" />
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Docker" width="80" height="80" />
-  <img src="https://media.giphy.com/media/3oKIPk5eMh9hX9lq5W/giphy.gif" alt="AWS" width="80" height="80" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -98,38 +92,3 @@ A platform for [AUTHOREA](https://www.authorea.com/).
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyber-Wizard-Dev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-
----
-
-## ✨ Stylish Animations
-
-### 🎉 Animated Header
-<h1 align="center" style="animation: bounce 2s infinite;">👋 Hello, I'm Rai Ali</h1>
-
-### 🚀 Animated Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&color=61DAFB&animation=pulse" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000&color=339933&animation=pulse" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=F7DF1E&animation=pulse" alt="JavaScript" />
-</p>
-
----
-
-### 🎨 Custom CSS Animation
-To make the animations work, add this to your GitHub profile's README (if supported) or use it in a web-based Markdown viewer:
-
-```html
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
