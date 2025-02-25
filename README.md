@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I'm Rai Ali</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer</h3>
+<h1 align="center">🚀 Hello, I'm <span style='color:#36BCF7'>Rai Ali</span> 👋</h1>
+<h3 align="center">💻 Passionate Full Stack Developer | Open Source Contributor 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Cloud+Computing+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Cloud+Computing+Lover;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,mongodb,express,nextjs,tailwind,docker,aws,graphql,redis,kubernetes" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,mongodb,express,nextjs,tailwind,docker,aws,graphql,redis,kubernetes,python,flutter,git" alt="Tech Stack" />
 </p>
 
 ---
@@ -76,4 +76,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Cyber-Wizard-Dev&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  🎯 **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 </p>
