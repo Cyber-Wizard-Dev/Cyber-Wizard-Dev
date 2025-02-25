@@ -30,16 +30,22 @@ I'm a **Full Stack Developer** with expertise in building scalable web applicati
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- React -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=React+%7C+Node.js+%7C+JavaScript" alt="React" />
+</p>
+
+<p align="center">
+  <!-- Floating Icons -->
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="React" width="80" height="80" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Node.js" width="80" height="80" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="80" height="80" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mTP/giphy.gif" alt="TypeScript" width="80" height="80" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="MongoDB" width="80" height="80" />
+  <img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" alt="Express" width="80" height="80" />
+  <img src="https://media.giphy.com/media/RJzm826j0bR3u7u0i1/giphy.gif" alt="Next.js" width="80" height="80" />
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Tailwind CSS" width="80" height="80" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Docker" width="80" height="80" />
+  <img src="https://media.giphy.com/media/3oKIPk5eMh9hX9lq5W/giphy.gif" alt="AWS" width="80" height="80" />
 </p>
 
 ---
@@ -95,27 +101,35 @@ A platform for [AUTHOREA](https://www.authorea.com/).
 
 ---
 
-## ✨ Animations
+## ✨ Stylish Animations
 
-Here are some fun animations to make your profile more lively:
+### 🎉 Animated Header
+<h1 align="center" style="animation: bounce 2s infinite;">👋 Hello, I'm Rai Ali</h1>
 
-### 🎉 Party Parrot
+### 🚀 Animated Badges
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width="50" height="50" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" alt="Deal With It Parrot" width="50" height="50" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" alt="Conga Parrot" width="50" height="50" />
-</p>
-
-### 🚀 Rocket Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Rocket" width="100" height="100" />
-</p>
-
-### 💻 Coding Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="Coding" width="100" height="100" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&color=61DAFB&animation=pulse" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000&color=339933&animation=pulse" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=F7DF1E&animation=pulse" alt="JavaScript" />
 </p>
 
 ---
 
-Feel free to customize the animations further or add more GIFs to make your profile stand out! 🚀
+### 🎨 Custom CSS Animation
+To make the animations work, add this to your GitHub profile's README (if supported) or use it in a web-based Markdown viewer:
+
+```html
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+  }
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
