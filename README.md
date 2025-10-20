@@ -9,11 +9,8 @@
   <a href="https://github.com/Cyber-Wizard-Dev">
     <img src="https://img.shields.io/badge/GitHub-Cyber--Wizard--Dev-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/azem-meer-08a804306/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:raizzler.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raizzler.dev@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:azem.coder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-azem.coder@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -27,7 +24,7 @@
 - 🌱 **Learning:** Advanced React patterns, microservices, and cloud-native development.
 - 👯 **Looking to Collaborate:** On open-source projects, SaaS products, and web solutions.
 - 💬 **Ask Me About:** React, Node.js, TypeScript, MongoDB, and cloud deployment.
-- 📫 **How to Reach Me:** [Email](mailto:raizzler.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/azem-meer-08a804306/)
+- 📫 **How to Reach Me:** [Email](mailto:azem.coder@gmail.com)
 
 ---
 
